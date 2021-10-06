@@ -3,7 +3,7 @@
   "version": "0.2.2",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
-  "repository": "git@github.com:@matthova/matt-hova-github-package-01.git",
+  "repository": "git@github.com:matthova/matt-hova-github-package-01.git",
   "license": "MIT",
   "scripts": {
     "build": "tsc",
